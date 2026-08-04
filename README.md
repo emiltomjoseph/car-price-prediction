@@ -81,16 +81,6 @@ The deployment process involved the following steps:
 
 ---
 
-# 📸 Application Preview
-
-> *(Add a screenshot after deployment.)*
-
-```
-assets/app_screenshot.png
-```
-
----
-
 #  Key Observations
 
 - Vehicle age significantly affects the predicted selling price.
