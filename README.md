@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction Web Application
+#  Car Price Prediction Web Application
 
 ## μLearn Epochs '26 – Day 9 Assignment
 
@@ -7,7 +7,7 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 This project is a web-based **Car Price Prediction System** developed as part of the **μLearn Epochs '26 Bootcamp**. The application uses a **Random Forest Regressor** trained on the **CarDekho Used Car Dataset** to estimate the selling price of a used car based on user-provided vehicle details.
 
@@ -15,18 +15,18 @@ The model has been integrated into a **Streamlit** web application, allowing use
 
 ---
 
-# 🎯 Project Features
+#  Project Features
 
-- 🚗 Interactive web application built with Streamlit
-- 🤖 Machine Learning-based price prediction
-- 📊 Uses a trained Random Forest Regression model
-- ⚡ Instant prediction based on user inputs
-- 💻 Clean and responsive user interface
-- 🌐 Ready for online deployment
+-  Interactive web application built with Streamlit
+-  Machine Learning-based price prediction
+-  Uses a trained Random Forest Regression model
+-  Instant prediction based on user inputs
+-  Clean and responsive user interface
+-  Ready for online deployment
 
 ---
 
-# 📂 Dataset
+#  Dataset
 
 **Dataset:** CarDekho Used Car Dataset
 
@@ -47,7 +47,7 @@ These features are used to predict the selling price of a used car.
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Python
 - Streamlit
@@ -58,7 +58,7 @@ These features are used to predict the selling price of a used car.
 
 ---
 
-# 🤖 Machine Learning Model
+#  Machine Learning Model
 
 **Algorithm Used:**
 
@@ -68,7 +68,7 @@ The trained model was exported using **Joblib** and integrated into the Streamli
 
 ---
 
-# 🚀 Deployment Approach
+#  Deployment Approach
 
 The deployment process involved the following steps:
 
@@ -78,26 +78,6 @@ The deployment process involved the following steps:
 4. Connected the web interface with the trained model.
 5. Tested the application locally.
 6. Deployed the application using **Streamlit Community Cloud**.
-
----
-
-# 📊 Application Workflow
-
-```text
-User Input
-      │
-      ▼
-Streamlit Web Interface
-      │
-      ▼
-Data Preprocessing
-      │
-      ▼
-Random Forest Regression Model
-      │
-      ▼
-Predicted Selling Price
-```
 
 ---
 
@@ -111,7 +91,7 @@ assets/app_screenshot.png
 
 ---
 
-# 🔍 Key Observations
+#  Key Observations
 
 - Vehicle age significantly affects the predicted selling price.
 - Cars with lower mileage generally receive higher predicted values.
@@ -121,7 +101,7 @@ assets/app_screenshot.png
 
 ---
 
-# ⚠ Challenges Faced
+#  Challenges Faced
 
 - Preparing the trained model for deployment.
 - Ensuring the input features matched the training feature order.
@@ -131,7 +111,7 @@ assets/app_screenshot.png
 
 ---
 
-# 💡 Future Improvements
+#  Future Improvements
 
 - Add support for more vehicle brands and models.
 - Improve UI with charts and prediction confidence.
@@ -142,69 +122,19 @@ assets/app_screenshot.png
 
 ---
 
-# 📁 Repository Structure
-
-```text
-car-price-prediction/
-│
-├── app.py
-├── car_price_prediction.ipynb
-├── car_price_model.pkl
-├── scaler.pkl
-├── feature_columns.pkl
-├── cardekho_dataset.csv
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── assets/
-    └── app_screenshot.png
-```
-
----
-
-# ▶️ Running the Project Locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/car-price-prediction.git
-```
-
-Navigate into the project folder:
-
-```bash
-cd car-price-prediction
-```
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit application:
-
-```bash
-streamlit run app.py
-```
-
----
-
-# 🌐 Live Demo
+#  Live Demo
 
 **Deployment Link:**
 
 ```
-https://your-app-name.streamlit.app
+https://your-app-name.streamlit.app](https://car-price-prediction-epochs.streamlit.app/
 ```
-
-*(Replace this with your deployed Streamlit URL.)*
 
 ---
 
-# 🙌 Acknowledgements
+#  Acknowledgements
 
 This project was developed as part of the **μLearn Epochs '26 Bootcamp** to demonstrate the complete Machine Learning workflow—from model development to deployment as a real-world web application.
 
 ---
-⭐ **Thank you for visiting this project!**
+ **Thank you for visiting this project!**
