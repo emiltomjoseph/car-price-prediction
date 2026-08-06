@@ -117,7 +117,7 @@ The deployment process involved the following steps:
 **Deployment Link:**
 
 ```
-[https://your-app-name.streamlit.app](https://car-price-prediction-epochs.streamlit.app/](https://car-price-prediction-epochs.streamlit.app/)
+https://car-price-prediction-epochs.streamlit.app/
 ```
 
 ---
